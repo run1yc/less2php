@@ -13,7 +13,7 @@
 **GetBlogger**
 Форма регистрации - две кнопки: "Я блогер" и "Я рекламодатель"
 Для блогера есть автоматизированная система верификации аккаунта, проверка на качественный и некачественный контент.
-[![image-1.png](https://i.postimg.cc/Rh04xWST/image-1.png)](https://postimg.cc/gX1fvk6w)
+<a href='https://postimg.cc/gX1fvk6w' target='_blank'><img src='https://postimg.cc/gX1fvk6w' border='0' alt='image-1'></a>
 
 Для рекламодателя окно "Начала работы" выглядит следующим образом 
 ![alt text](image-3.png)
